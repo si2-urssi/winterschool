@@ -41,7 +41,6 @@ Ben Galewsky
 
 [Meredith Rawls](https://github.com/mrawls)
 
-
 ## Requirements
 
 You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on, and need some specific software packages installed:
@@ -52,6 +51,14 @@ You will need a laptop with a Mac, Linux, or Windows operating system (not a tab
 - a text editor, preferably one designed for writing code; we recommend [VS Code](https://code.visualstudio.com), [Atom](https://atom.io), or [Sublime Text](https://www.sublimetext.com)
 
 You should also sign up for a [GitHub](https://github.com/) account if you don't already have one.
+
+## Projects
+
+Most of your work time will be spent on an individual project where you develop a Python-based research software package.
+Please bring an idea or some basis for a project.
+
+Ideally, this should be something that supports your work and that you would (or could) continue developing or using after the winter school.
+We hope that most—or at least some—of the projects will eventually be submitted to the [Journal of Open Source Software (JOSS)](https://joss.theoj.org), which we'll briefly talk about on the final day.
 
 ### Reimbursements
 
