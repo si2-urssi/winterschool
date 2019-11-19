@@ -60,6 +60,8 @@ Please bring an idea or some basis for a project.
 Ideally, this should be something that supports your work and that you would (or could) continue developing or using after the winter school.
 We hope that most—or at least some—of the projects will eventually be submitted to the [Journal of Open Source Software (JOSS)](https://joss.theoj.org), which we'll briefly talk about on the final day.
 
+(If you are really struggling to come up with a project idea, please reach out and we can help you identify something.)
+
 ### Reimbursements
 
 Please follow the instructions you received over email and reach out to Stacey Dorton with any questions or concerns.
