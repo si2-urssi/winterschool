@@ -29,7 +29,15 @@ James Howison
 
 ## Teaching Assistants
 
-TBD
+[Bryan Weber](@bryanwweber)
+
+[Andy Loftus](@andylytical)
+
+Ben Galewsky
+
+[Leah Fulmer](@lfulmer)
+
+[Meredith Rawls](@mrawls)
 
 ## Requirements
 
