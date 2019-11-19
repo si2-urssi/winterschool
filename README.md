@@ -11,11 +11,13 @@ Welcome to the repository for the URSSI winter school! All instructions will hap
 |:--|:--|:--|:--|
 | 17th, 1-2pm  | Welcome and introductions |  |
 | 17th, 2-5pm  | Software design, structuring Python packages |  | Jeff & Kyle
-| 18th, morning session | Collaboration with Git/GitHub/Workflows, work time |  | Karthik & James
-| 18th, afternoon session  | Testing, work time |  | Kyle
-| 19th, morning session  | Packaging & documentation, work time | | Kyle
-| 19th, afternoon session | Peer code review, open science & software citation |  | Jeff, Kyle
+| 18th, 9am-12pm | Collaboration with Git/GitHub/Workflows, work time |  | Karthik & James
+| 18th, 1-5pm  | Testing, work time |  | Kyle
+| 19th, 9am-12pm | Packaging & documentation, work time | | Kyle
+| 19th, 1-5pm | Peer code review, open science & software citation |  | Jeff, Kyle
 | 19th, evening | Informal dinner, departure |  |
+
+Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site on both the 18th and 19th.
 
 ## Instructors
 
