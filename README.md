@@ -52,6 +52,10 @@ You will need a laptop with a Mac, Linux, or Windows operating system (not a tab
 
 You should also sign up for a [GitHub](https://github.com/) account if you don't already have one.
 
+Specific Python packages (install with pip or conda):
+- pytest
+- sphinx
+
 ## Projects
 
 Most of your work time will be spent on an individual project where you develop a Python-based research software package.
