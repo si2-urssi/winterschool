@@ -25,9 +25,9 @@ Each morning and afternoon session will be split up with a break, and we'll have
 
 [Karthik Ram](https://github.com/karthik)
 
-Jeffrey Carver
+[Jeffrey Carver](https://github.com/jeffcarver)
 
-James Howison
+[James Howison](https://github.com/jameshowison)
 
 ## Teaching Assistants
 
