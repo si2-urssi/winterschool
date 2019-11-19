@@ -19,6 +19,10 @@ Welcome to the repository for the URSSI winter school! All instructions will hap
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site on both the 18th and 19th.
 
+## Code of Conduct
+
+We have adopted a [code of conduct](https://github.com/si2-urssi/winterschool/blob/master/CODE_OF_CONDUCT.md) for the URSSI Winter School and all associated spaces, both physical and digital. Please review this.
+
 ## Instructors
 
 [Kyle Niemeyer](https://github.com/kyleniemeyer)
@@ -68,6 +72,6 @@ Please identify your project idea by **Monday 9 December** and let us know by en
 
 (If you are really struggling to come up with a project idea, please reach out and we can help you identify something.)
 
-### Reimbursements
+## Reimbursements
 
 Please follow the instructions you received over email and reach out to Stacey Dorton with any questions or concerns.
