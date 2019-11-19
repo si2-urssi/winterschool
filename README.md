@@ -19,25 +19,26 @@ Welcome to the repository for the URSSI winter school! All instructions will hap
 
 ## Instructors
 
-Kyle Niemeyer
+[Kyle Niemeyer](https://github.com/kyleniemeyer)
 
-Karthik Ram
+[Karthik Ram](https://github.com/karthik)
 
-Jeffrey Carver 
+Jeffrey Carver
 
 James Howison
 
 ## Teaching Assistants
 
-[Bryan Weber](@bryanwweber)
+[Bryan Weber](https://github.com/bryanwweber)
 
-[Andy Loftus](@andylytical)
+[Andy Loftus](https://github.com/andylytical)
 
 Ben Galewsky
 
-[Leah Fulmer](@lfulmer)
+[Leah Fulmer](https://github.com/lfulmer)
 
-[Meredith Rawls](@mrawls)
+[Meredith Rawls](https://github.com/mrawls)
+
 
 ## Requirements
 
