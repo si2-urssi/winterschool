@@ -30,6 +30,16 @@ James Howison
 
 TBD
 
+## Requirements
+
+You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on, and need some specific software packages installed:
+
+- the Bash shell; you should only have to set this up if you are using a Windows machine, following the [Software Carpentry setup instructions](http://carpentries.github.io/workshop-template/#setup)
+- Git
+- Python 3.x; we recommend installing [Anaconda](https://www.anaconda.com/distribution/)
+- a text editor, preferably one designed for writing code; we recommend [VS Code](https://code.visualstudio.com), [Atom](https://atom.io), or [Sublime Text](https://www.sublimetext.com)
+
+You should also sign up for a [GitHub](https://github.com/) account if you don't already have one.
 
 ### Reimbursements
 
