@@ -39,7 +39,7 @@ We have adopted a [code of conduct](https://github.com/si2-urssi/winterschool/bl
 
 [Andy Loftus](https://github.com/andylytical)
 
-Ben Galewsky
+[Ben Galewsky](https://github.com/BenGalewsky)
 
 [Leah Fulmer](https://github.com/lfulmer)
 
