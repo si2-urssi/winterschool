@@ -23,6 +23,8 @@ Each morning and afternoon session will be split up with a break, and we'll have
 
 We have adopted a [code of conduct](https://github.com/si2-urssi/winterschool/blob/master/CODE_OF_CONDUCT.md) for the URSSI Winter School and all associated spaces, both physical and digital. Please review this.
 
+Also, the URSSI Winter School is a scent-free environment. We would like to ask the participants to refrain from using any scented lotions, perfumes, essential oils, scented antiperspirants, etc., as these make the space inaccessible for folks with asthma, allergies to the scents, or with Multiple Chemical Sensitivity. Having a scent-free environment will help prevent dizziness, nausea, breathing difficulties, headaches, and other issues among our participants.
+
 ## Instructors
 
 [Kyle Niemeyer](https://github.com/kyleniemeyer)
