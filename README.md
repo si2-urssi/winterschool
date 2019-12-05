@@ -47,6 +47,9 @@ Also, the URSSI Winter School is a scent-free environment. We would like to ask 
 
 [Meredith Rawls](https://github.com/mrawls)
 
+[Brigitta Sipőcz](https://github.com/bsipocz)
+
+
 ## Requirements
 
 You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on, and need some specific software packages installed:
