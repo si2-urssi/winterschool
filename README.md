@@ -4,6 +4,8 @@ Dec 17-19, Seattle WA
 
 Welcome to the repository for the URSSI winter school! All instructions will happen at the [Blodel Hall at the University of Washington Information School](https://www.google.com/maps/place/Bloedel+Hall/@47.651488,-122.3087874,17z/data=!4m5!3m4!1s0x0:0xf676899c3a7ad33b!8m2!3d47.6513724!4d-122.3080578).
 
+Please refer to [this map](https://github.com/si2-urssi/winterschool/blob/master/BloedelEntrance.png) to enter the building and find access to the basement (where we'll be).
+
 
 ## Tentative schedule
 
