@@ -1,6 +1,10 @@
 # URSSI Winter School
 
+## Discussion and notes
+
 [Etherpad for discussion](https://beta.etherpad.org/p/fJq8Ozzq1Bgyt5l59HUB) 👀
+
+---
 
 Dec 17-19, Seattle WA
 
