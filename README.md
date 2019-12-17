@@ -6,6 +6,12 @@
 
 [Etherpad for discussion](https://beta.etherpad.org/p/fJq8Ozzq1Bgyt5l59HUB) 👀
 
+[Gitter chatroom](https://gitter.im/si2-urssi/winterschool)
+
+[Glossary file](https://github.com/si2-urssi/winterschool/blob/master/glossary.md)
+
+[Resources file with links](https://github.com/si2-urssi/winterschool/blob/master/resources.md)
+
 ---
 
 Dec 17-19, Seattle WA
