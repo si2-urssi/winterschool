@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/si2-urssi/winterschool.svg)](https://gitter.im/si2-urssi/winterschool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # URSSI Winter School
 
 ## Discussion and notes
