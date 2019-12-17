@@ -11,7 +11,7 @@ Please refer to [this map](https://github.com/si2-urssi/winterschool/blob/master
 
 | Time | Topic  | Resources  | Instructor
 |:--|:--|:--|:--|
-| 17th, 1-2pm  | Welcome and introductions |  |
+| 17th, 1-2pm  | [Welcome and introductions](http://inundata.org/talks/winter-school-intro/#/) |  |
 | 17th, 2-5pm  | Software design, structuring Python packages |  | Jeff & Kyle
 | 18th, 9am-12pm | Collaboration with Git/GitHub/Workflows, work time |  | Karthik & James
 | 18th, 1-5pm  | Testing, work time |  | Kyle
