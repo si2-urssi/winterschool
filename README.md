@@ -26,7 +26,7 @@ Please refer to [this map](https://github.com/si2-urssi/winterschool/blob/master
 | Time | Topic  | Resources  | Instructor
 |:--|:--|:--|:--|
 | 17th, 1-2pm  | [Welcome and introductions](http://inundata.org/talks/winter-school-intro/#/) |  |
-| 17th, 2-5pm  | Software design,<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>Structuring Python packages |  | Jeff, Andy, Kyle
+| 17th, 2-5pm  | [Software design](http://carver.cs.ua.edu/Slides/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>Structuring Python packages |  | Jeff, Andy, Kyle
 | 18th, 9am-12pm | Collaboration with Git/GitHub/Workflows, work time |  | Karthik & James
 | 18th, 1-5pm  | Testing, work time |  | Kyle
 | 19th, 9am-12pm | Packaging & documentation, work time | | Kyle
