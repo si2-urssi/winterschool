@@ -16,3 +16,10 @@
     + single-sourcing the version: <https://packaging.python.org/guides/single-sourcing-package-version/>
   - alternatives to setup.py
     + flit: <https://flit.readthedocs.io/en/latest/index.html#>
+
+## Git Resources
++ Visualizers
+  - <https://learngitbranching.js.org/?NODEMO>
+  - <https://git-school.github.io/visualizing-git/>
++ Git Internals
+  - [Git Internals](https://docs.google.com/presentation/d/1LiDUXn3X_Tus-tI3WFbblgGwMzryJENm7BXKDXo5bqI/edit#slide=id.p)
