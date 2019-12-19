@@ -30,7 +30,7 @@ Please refer to [this map](https://github.com/si2-urssi/winterschool/blob/master
 | 18th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](http://inundata.org/talks/git-collaboration/#/), [Git Exercises](https://jameshowison.github.io/peer_production_course/docs/additional_git_exercises.html), work time |  | Karthik & James
 | 18th, 1-5pm  | [Testing and continuous integration](https://kyleniemeyer.github.io/research-software-dev-modules/module-testing-ci/), work time |  | Kyle
 | 19th, 9am-12pm | [Peer code review](http://carver.cs.ua.edu/Slides/URSSI-WinterSchool-PeerCodeReview.pdf), work time | | Jeff
-| 19th, 1-5pm | Open science & software citation, Documentation |  | Kyle, James
+| 19th, 1-5pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) |  | Kyle, James
 | 19th, evening | Informal dinner, departure |  |
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site on both the 18th and 19th.
