@@ -1,4 +1,13 @@
-
+### Python
 - constructor:
+  - A class can be thought of as a blueprint for how to create an object. (1)
+  - When an object (aka: instance) is created, the "constructor" method is called to initialize the instance.
+  - References:
+    - (1) https://stackoverflow.com/a/8985886
+    - https://docs.python.org/3/reference/datamodel.html#object.__init__
 - decorator:
+  - Simply, wraps a function to do something before, or after, the original function call.
+  - Replaces the function reference so that when the function name is called, the wrapper is what actually gets called.
+  - References:
+    - https://realpython.com/primer-on-python-decorators/
 - 
