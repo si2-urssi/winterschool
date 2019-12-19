@@ -96,3 +96,7 @@ Please identify your project idea by **Monday 9 December** and let us know by en
 ## Reimbursements
 
 Please follow the instructions you received over email and reach out to Stacey Dorton with any questions or concerns.
+
+## Feedback 
+
+[Post-workshop survey](http://bit.ly/URSSI-WinterSchool-Evaluation)
