@@ -17,6 +17,11 @@
   - alternatives to setup.py
     + flit: <https://flit.readthedocs.io/en/latest/index.html#>
 
+## Peer production course and Interactive git exercises (groups of 3)
+
+- [Syllabus for UT Austin Peer Production course](https://jameshowison.github.io/peer_production_course/pp_syllabus.html)
+- [Exercises in groups](https://jameshowison.github.io/peer_production_course/docs/additional_git_exercises.html)
+
 ## Git Resources
 + Visualizers
   - <https://learngitbranching.js.org/?NODEMO>
